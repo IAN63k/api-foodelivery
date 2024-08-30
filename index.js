@@ -34,7 +34,7 @@ readData();
 
 
 app.get('/', (req, res) => {
-    res.send('Hello World!!!!!');
+    res.send('This is my Api REST for app foodelivery! 🚀');
 });
 
 // endpoints para platos
