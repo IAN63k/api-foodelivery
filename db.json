@@ -1,1 +1,333 @@
-{"platos":[{"id":1,"image":"https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","name":"Meat pizza","food":"pizza","restaurant":"Aromat Bakery","price":29},{"id":2,"image":"https://images.unsplash.com/photo-1593246049226-ded77bf90326?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","name":"Combined pizza","food":"pizza","restaurant":"Aromat Bakery","price":31.5},{"id":3,"image":"https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","name":"Pizza with meat and mushrooms","food":"pizza","restaurant":"Aromat Bakery","price":26.9},{"id":4,"image":"https://images.unsplash.com/photo-1590947132387-155cc02f3212?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","name":"Hawaiian pizza","food":"pizza","restaurant":"Aromat Bakery","price":35},{"id":5,"image":"https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=2742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","name":"Sausage pizza","food":"pizza","restaurant":"Aromat Bakery","price":30},{"id":6,"image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?q=80&w=2869&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","name":"Vegetarian pizza","food":"pizza","restaurant":"Aromat Bakery","price":32},{"id":7,"image":"https://s3-alpha-sig.figma.com/img/f375/7f2d/e061b7a56e124c7e0761545d650cce2b?Expires=1655683200&Signature=eIinJBu8ZYrfxju2BxX5r~8KJpPFp8x8M6krwH6fd7eB-J4TvwykoENg-ZaN-3VCBAv~1-Wqh7d5DRZZMs49KKtaimAB-VxQfuyp4xPMmjQiBh3gCNQU2ROjgLMNqZ61yl9HoBbW1z78XN0-AtMiv8Y0sHWIjQCPgaKD~sIT013fbfZDqf4qW~JnesuusuyNFuuFc6oopowdTK1QsnrTDhVI3tXQO8CpiCyejxH~i4UXzdLQ1VUt1KcgsitccyOv356hlsIa~kt0UbdxLNVQUWZoBlLPtMkcSRkkGTomuTwQ0Bh1klj1HkHURCkLHFpb5bmIGcyXka8v8oaXDGwyrA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA","name":"Bolognese salad","food":"salad","restaurant":"Pardes Restaurant","price":14.45},{"id":8,"image":"https://s3-alpha-sig.figma.com/img/1201/0c03/81befe707c027781720f9764f396d780?Expires=1655683200&Signature=P0IbRYYl9i7-PViXufwzi0Hirskm5FE6IUlicgQGqaWIHMIa4el06FrcZJOC~FHURbz1t61TRHqNw2GoGeXvPaDRLlErOacN0ZYkfaNrkD9sf7E9cnE3vjE-LPAow0nJwBs-jkBPaMjSw~j~OrbuVAOh6lgMd4VkRRjw6lgV~hSA5-oLC8MHyxSmIh6WEf99mRrQokXJ8sDZ-TWAJRzp-I8S2GwBlmOTS6DQoandBIkauFrgdxUba2AQhqXtsu2Q6CI35mkxm-EkfCXWB-1zpGw16IkZFVpTYpDOeWG-H50azQt9ZWVajTgN2pPqA~R8BQ4eu~Y-6DFl2chFpYUWmw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA","name":"Salad with shrimp","food":"salad","restaurant":"Pardes Restaurant","price":19.05},{"id":9,"image":"https://s3-alpha-sig.figma.com/img/255f/ec55/df09594f35ff96fcae46c638467e42c8?Expires=1655683200&Signature=HpEds2q1HoXNvZbkH9VbZIZnhYPDWi5qUY3Fg~I128HyzYTgchr1Q4z9RVUv-LIvvC~FVp6OdJYZAjhxlIfNf5XT6Xet1CFRqZ~5buMDQGU0R-vGMjx-K3kJJ960K-LSI0z5cB7taMEiyTeA9RmVp3Y13-1xVIyJgn3Cw3X7L9Jl7tEsQOMwYP6x0QnGUBPaSONYEiWsTezZPZ~MzHFo3IoNICQzm9bUvNyPTYs7PYsmZfUNdHQtuGalXuIwbJeoTttO7qjs8Ylytf4TlT2d4mSWu-4u1ptpeOUhy27~wKIQHYlptxYnUtq7SPVvTgEWzxBQ6w22t8Wjr5UwGf3wvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA","name":"Caesar salad without sauce","food":"salad","restaurant":"Pardes Restaurant","price":17.45},{"id":10,"image":"https://s3-alpha-sig.figma.com/img/4317/6618/bd702e5247cf05cebdbccd9f6def186d?Expires=1655683200&Signature=HEViZRinwSkNd2lzeWiR6VIhTf5uMWzOIDvXulcccurRERQ6fX4wtIHoGJtQj4JWnzPsgfmU~ImTnhv2V2PwwmFZNZe~JxWfqjk3wDQ8jgTSf2b4ZktPqu3xzgdqf0x-Jaymc4-pidXgsDm0pD14sUDZdxhOg0qWjQvg35Y1~fb79yQtRgEG8iO84eHHMiWLVouNrRLmktV5fedoTi~IApiaGTTJKzrqNAIXFi9LKirENIUq-ORS8Wpy3iLPYKqbltZG834Kq0M6dkdvqRGBXTmMDdmB3JrGBsssoZUmCZ7XdVbcJoJH5Anrw3VjduwMIOxIH4t4IhzfsyK6FXYA2A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA","name":"Fresh with funcheza","food":"salad","restaurant":"Pardes Restaurant","price":14.45},{"id":11,"image":"https://s3-alpha-sig.figma.com/img/fd2c/5fbb/54d8e7858dee9df91a73796f335fb9e2?Expires=1655683200&Signature=YG4Yzpvr1u5S3yMrdEtc60fuSIxgIc--~viiyKxZYN5PwZgbcS~heXKVYQDhuo5geaoFqxzxkgXiLoQiBTb9BslF9eL-Bvqkhws0I3lurvBTjbAitzNy-x9bpMbSrGP3m6x0lNQMvO1bvIWFb~vZS3Pnczjc4OK5tThxwYYBCOQoJLhrgMU~GHPIBZxTfHSfWuGkg5gdPp3TCYfkeytuzkom4wplue3Z9D2us-inKPY9JwO8ekl-O39UeqJBk5em22dhsKaopCQ7cug0PJdd9X8IONiQlD58Jgp~4urAhhJ~kGOBvLpykiF0ZeMHD1VA0inPa4oqyonuWcwydKciBw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA","name":"Fruit salad","food":"salad","restaurant":"Pardes Restaurant","price":14.45},{"id":12,"image":"https://s3-alpha-sig.figma.com/img/7ce2/e44a/8bfada13f96f56f059bd5857285364c6?Expires=1655683200&Signature=a39scla8qqN2AZmSMbjCh25L3XrFbv4zlKhroduR~kWE7X~1R5IBnOaA-qCPxa7x12FqgMYwe0MyPeXy7Xf3kFmR603JndhSPc8hACTI4PLm4hUz0EfF2l-58-~X0n~Lkwgo4I9rUd~Dmm3qECgik3MouOIu5vHW0m9RQC2dPfy0Btg~yafoUB0pLL9-wjGUVs0XKKNVBE21wFXBBi9XZF9iTpcZ3dkV7O5pvjD7LvYtlJiqIC9M3qLUxlt9d1ziEAfMx3fQO25jHf1wEc8uyqlm5GaZQ2cziFSNnOOITX3AsQHt~CN~-NR~VyuQxL4p~Cbm~E6ELibRCgJi0MOKyA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA","name":"Vegetable salad","food":"salad","restaurant":"Pardes Restaurant","price":14.45},{"id":13,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/520765216/classic-beef-burger.jpg","name":"Roast Beef Burger","food":"burger","restaurant":"The Deutch Grill","price":10.45},{"id":14,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/316673155/elk-burger.jpg","name":"Elk Burger","food":"burger","restaurant":"The Deutch Grill","price":13.65},{"id":15,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/254552601/raw-portobello-burger.jpg","name":"Portobello Mushroom Burger","food":"burger","restaurant":"The Deutch Grill","price":10.75},{"id":16,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/184168996/turkey-burger.jpg","name":"Turkey Burger","food":"burger","restaurant":"The Deutch Grill","price":10.15},{"id":17,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/351400125/pumpkin-veggie-burger.jpg","name":"Veggie Burger","food":"burger","restaurant":"The Deutch Grill","price":14},{"id":18,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2019/11/cracker-barrel-meatloaf-recipe-5.jpg","name":"Classic Meatloaf","food":"dinner","restaurant":"Last night Restaurant & kafe","price":23.5},{"id":19,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2019/01/low-calorie-cornmeal-tomato-gravy-catfish.jpg","name":"Southern-Style Cornmeal Catfish","food":"dinner","restaurant":"Last night Restaurant & kafe","price":20.15},{"id":20,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2019/11/chicken-and-dumplings-recipe.jpg","name":"Chicken and Dumplings","food":"dinner","restaurant":"Last night Restaurant & kafe","price":18.9},{"id":21,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2019/01/vegetarian-green-bean-casserole.jpg","name":"Classic Green Bean Caserole","food":"dinner","restaurant":"Last night Restaurant & kafe","price":21.6},{"id":22,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2020/03/sweetbreads.jpg","name":"Breaised Sweetbreads Eugenie","food":"dinner","restaurant":"Last night Restaurant & kafe","price":19.9},{"id":23,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/tempura-shrimp-roll.jpg","name":"Shrimp Tempura Roll Sushi","food":"sushi","restaurant":"Outdoors Paradise","price":23.78},{"id":24,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/eel-roll.jpg","name":"Eel and Avocado Roll Sushi","food":"sushi","restaurant":"Outdoors Paradise","price":24.12},{"id":25,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/philadelphia-roll.jpg","name":"Philadelphia Roll Sushi","food":"sushi","restaurant":"Outdoors Paradise","price":25.94},{"id":26,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/spicy-tuna-roll.jpg","name":"Spicy Tuna Roll Sushi","food":"sushi","restaurant":"Outdoors Paradise","price":23.78},{"id":27,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/rainbow-roll.jpg","name":"Rainbow Roll Sushi","food":"sushi","restaurant":"Outdoors Paradise","price":21.46},{"id":28,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/988728384/apple-cranberry-oatmeal.jpg","name":"Nutty Oatmeal","food":"breakfast","restaurant":"Glamour Kafe","price":8.9},{"id":29,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2019/12/protein-powder-pancakes.jpg","name":"Protein Pancakes","food":"breakfast","restaurant":"Glamour Kafe","price":11.5},{"id":30,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/742292227/berry-yogurt-toast.jpg","name":"Ricotta Toast and Berries","food":"breakfast","restaurant":"Glamour Kafe","price":12.1},{"id":31,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/649591638/frozen-berry-banana-oatmeal.jpg","name":"Instant Oats with Protein Powder","food":"breakfast","restaurant":"Glamour Kafe","price":15.65},{"id":32,"image":"https://www.eatthis.com/wp-content/uploads/sites/4/2017/12/spinach-mushroom-omelet-flickr.jpg","name":"Spinach and Mushroom Omelet","food":"breakfast","restaurant":"Glamour Kafe","price":13.65}],"restaurants":[{"id":1,"image":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant1_dhezvv.png","logo":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoPardes_cctmmi.png","icon":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654829463/media%20sprint2/IconPardes_wzlj50.png","name":"Pardes Restaurant","food":"salad","schedule":"09:30 - 23:00","stars":"four","before":"4$"},{"id":2,"image":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant2_iuftqx.png","icon":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654829463/media%20sprint2/IconGlamour_wiccvc.png","logo":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoGlamour_clafv2.png","name":"Glamour Kafe","food":"breakfast","schedule":"09:00 - 21:00","stars":"three","before":"13$"},{"id":3,"image":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant3_ukx0zd.png","logo":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoAromat_xj09ag.png","icon":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654829464/media%20sprint2/IconAromat_sax1kn.png","name":"Aromat Bakery","food":"pizzas","schedule":"09:00 - 22:00","stars":"five","before":"3$"},{"id":4,"image":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant4_etrsk2.png","logo":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoLast_k7bnhk.png","icon":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654829466/media%20sprint2/IconLast_hac4lw.png","name":"Last night Restaurant & kafe","food":"dinner","schedule":"10:00 - 22:00","stars":"four","before":"5$"},{"id":5,"image":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654582209/media%20sprint2/restaurant5_omgqpw.png","logo":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoDeutch_rxr9ay.png","icon":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654829464/media%20sprint2/IconDeutch_leppuy.png","name":"The Deutch Grill","food":"burgers","schedule":"09:30 - 23:30","stars":"five","before":"10$"},{"id":6,"image":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654582210/media%20sprint2/restaurant6_spvngo.png","logo":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoOutdoors_pvh8pd.png","icon":"https://res.cloudinary.com/dd5yolnde/image/upload/v1654829465/media%20sprint2/IconOutdoors_ar07g7.png","name":"Outdoors Paradise","food":"sushi","schedule":"10:30 - 22:30","stars":"three","before":"8$"}],"users":[{"id":1}]}
+{
+    "platos": [
+        {
+            "id": 1,
+            "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Meat pizza",
+            "food": "pizza",
+            "restaurant": "Aromat Bakery",
+            "price": 29
+        },
+        {
+            "id": 2,
+            "image": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Combined pizza",
+            "food": "pizza",
+            "restaurant": "Aromat Bakery",
+            "price": 31.5
+        },
+        {
+            "id": 3,
+            "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Pizza with meat and mushrooms",
+            "food": "pizza",
+            "restaurant": "Aromat Bakery",
+            "price": 26.9
+        },
+        {
+            "id": 4,
+            "image": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Hawaiian pizza",
+            "food": "pizza",
+            "restaurant": "Aromat Bakery",
+            "price": 35
+        },
+        {
+            "id": 5,
+            "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=2742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Sausage pizza",
+            "food": "pizza",
+            "restaurant": "Aromat Bakery",
+            "price": 30
+        },
+        {
+            "id": 6,
+            "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?q=80&w=2869&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Vegetarian pizza",
+            "food": "pizza",
+            "restaurant": "Aromat Bakery",
+            "price": 32
+        },
+        {
+            "id": 7,
+            "image": "https://s3-alpha-sig.figma.com/img/f375/7f2d/e061b7a56e124c7e0761545d650cce2b?Expires=1655683200&Signature=eIinJBu8ZYrfxju2BxX5r~8KJpPFp8x8M6krwH6fd7eB-J4TvwykoENg-ZaN-3VCBAv~1-Wqh7d5DRZZMs49KKtaimAB-VxQfuyp4xPMmjQiBh3gCNQU2ROjgLMNqZ61yl9HoBbW1z78XN0-AtMiv8Y0sHWIjQCPgaKD~sIT013fbfZDqf4qW~JnesuusuyNFuuFc6oopowdTK1QsnrTDhVI3tXQO8CpiCyejxH~i4UXzdLQ1VUt1KcgsitccyOv356hlsIa~kt0UbdxLNVQUWZoBlLPtMkcSRkkGTomuTwQ0Bh1klj1HkHURCkLHFpb5bmIGcyXka8v8oaXDGwyrA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "name": "Bolognese salad",
+            "food": "salad",
+            "restaurant": "Pardes Restaurant",
+            "price": 14.45
+        },
+        {
+            "id": 8,
+            "image": "https://s3-alpha-sig.figma.com/img/1201/0c03/81befe707c027781720f9764f396d780?Expires=1655683200&Signature=P0IbRYYl9i7-PViXufwzi0Hirskm5FE6IUlicgQGqaWIHMIa4el06FrcZJOC~FHURbz1t61TRHqNw2GoGeXvPaDRLlErOacN0ZYkfaNrkD9sf7E9cnE3vjE-LPAow0nJwBs-jkBPaMjSw~j~OrbuVAOh6lgMd4VkRRjw6lgV~hSA5-oLC8MHyxSmIh6WEf99mRrQokXJ8sDZ-TWAJRzp-I8S2GwBlmOTS6DQoandBIkauFrgdxUba2AQhqXtsu2Q6CI35mkxm-EkfCXWB-1zpGw16IkZFVpTYpDOeWG-H50azQt9ZWVajTgN2pPqA~R8BQ4eu~Y-6DFl2chFpYUWmw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "name": "Salad with shrimp",
+            "food": "salad",
+            "restaurant": "Pardes Restaurant",
+            "price": 19.05
+        },
+        {
+            "id": 9,
+            "image": "https://s3-alpha-sig.figma.com/img/255f/ec55/df09594f35ff96fcae46c638467e42c8?Expires=1655683200&Signature=HpEds2q1HoXNvZbkH9VbZIZnhYPDWi5qUY3Fg~I128HyzYTgchr1Q4z9RVUv-LIvvC~FVp6OdJYZAjhxlIfNf5XT6Xet1CFRqZ~5buMDQGU0R-vGMjx-K3kJJ960K-LSI0z5cB7taMEiyTeA9RmVp3Y13-1xVIyJgn3Cw3X7L9Jl7tEsQOMwYP6x0QnGUBPaSONYEiWsTezZPZ~MzHFo3IoNICQzm9bUvNyPTYs7PYsmZfUNdHQtuGalXuIwbJeoTttO7qjs8Ylytf4TlT2d4mSWu-4u1ptpeOUhy27~wKIQHYlptxYnUtq7SPVvTgEWzxBQ6w22t8Wjr5UwGf3wvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "name": "Caesar salad without sauce",
+            "food": "salad",
+            "restaurant": "Pardes Restaurant",
+            "price": 17.45
+        },
+        {
+            "id": 10,
+            "image": "https://s3-alpha-sig.figma.com/img/4317/6618/bd702e5247cf05cebdbccd9f6def186d?Expires=1655683200&Signature=HEViZRinwSkNd2lzeWiR6VIhTf5uMWzOIDvXulcccurRERQ6fX4wtIHoGJtQj4JWnzPsgfmU~ImTnhv2V2PwwmFZNZe~JxWfqjk3wDQ8jgTSf2b4ZktPqu3xzgdqf0x-Jaymc4-pidXgsDm0pD14sUDZdxhOg0qWjQvg35Y1~fb79yQtRgEG8iO84eHHMiWLVouNrRLmktV5fedoTi~IApiaGTTJKzrqNAIXFi9LKirENIUq-ORS8Wpy3iLPYKqbltZG834Kq0M6dkdvqRGBXTmMDdmB3JrGBsssoZUmCZ7XdVbcJoJH5Anrw3VjduwMIOxIH4t4IhzfsyK6FXYA2A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "name": "Fresh with funcheza",
+            "food": "salad",
+            "restaurant": "Pardes Restaurant",
+            "price": 14.45
+        },
+        {
+            "id": 11,
+            "image": "https://s3-alpha-sig.figma.com/img/fd2c/5fbb/54d8e7858dee9df91a73796f335fb9e2?Expires=1655683200&Signature=YG4Yzpvr1u5S3yMrdEtc60fuSIxgIc--~viiyKxZYN5PwZgbcS~heXKVYQDhuo5geaoFqxzxkgXiLoQiBTb9BslF9eL-Bvqkhws0I3lurvBTjbAitzNy-x9bpMbSrGP3m6x0lNQMvO1bvIWFb~vZS3Pnczjc4OK5tThxwYYBCOQoJLhrgMU~GHPIBZxTfHSfWuGkg5gdPp3TCYfkeytuzkom4wplue3Z9D2us-inKPY9JwO8ekl-O39UeqJBk5em22dhsKaopCQ7cug0PJdd9X8IONiQlD58Jgp~4urAhhJ~kGOBvLpykiF0ZeMHD1VA0inPa4oqyonuWcwydKciBw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "name": "Fruit salad",
+            "food": "salad",
+            "restaurant": "Pardes Restaurant",
+            "price": 14.45
+        },
+        {
+            "id": 12,
+            "image": "https://s3-alpha-sig.figma.com/img/7ce2/e44a/8bfada13f96f56f059bd5857285364c6?Expires=1655683200&Signature=a39scla8qqN2AZmSMbjCh25L3XrFbv4zlKhroduR~kWE7X~1R5IBnOaA-qCPxa7x12FqgMYwe0MyPeXy7Xf3kFmR603JndhSPc8hACTI4PLm4hUz0EfF2l-58-~X0n~Lkwgo4I9rUd~Dmm3qECgik3MouOIu5vHW0m9RQC2dPfy0Btg~yafoUB0pLL9-wjGUVs0XKKNVBE21wFXBBi9XZF9iTpcZ3dkV7O5pvjD7LvYtlJiqIC9M3qLUxlt9d1ziEAfMx3fQO25jHf1wEc8uyqlm5GaZQ2cziFSNnOOITX3AsQHt~CN~-NR~VyuQxL4p~Cbm~E6ELibRCgJi0MOKyA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "name": "Vegetable salad",
+            "food": "salad",
+            "restaurant": "Pardes Restaurant",
+            "price": 14.45
+        },
+        {
+            "id": 13,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/520765216/classic-beef-burger.jpg",
+            "name": "Roast Beef Burger",
+            "food": "burger",
+            "restaurant": "The Deutch Grill",
+            "price": 10.45
+        },
+        {
+            "id": 14,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/316673155/elk-burger.jpg",
+            "name": "Elk Burger",
+            "food": "burger",
+            "restaurant": "The Deutch Grill",
+            "price": 13.65
+        },
+        {
+            "id": 15,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/254552601/raw-portobello-burger.jpg",
+            "name": "Portobello Mushroom Burger",
+            "food": "burger",
+            "restaurant": "The Deutch Grill",
+            "price": 10.75
+        },
+        {
+            "id": 16,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/184168996/turkey-burger.jpg",
+            "name": "Turkey Burger",
+            "food": "burger",
+            "restaurant": "The Deutch Grill",
+            "price": 10.15
+        },
+        {
+            "id": 17,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/351400125/pumpkin-veggie-burger.jpg",
+            "name": "Veggie Burger",
+            "food": "burger",
+            "restaurant": "The Deutch Grill",
+            "price": 14
+        },
+        {
+            "id": 18,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/11/cracker-barrel-meatloaf-recipe-5.jpg",
+            "name": "Classic Meatloaf",
+            "food": "dinner",
+            "restaurant": "Last night Restaurant & kafe",
+            "price": 23.5
+        },
+        {
+            "id": 19,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/01/low-calorie-cornmeal-tomato-gravy-catfish.jpg",
+            "name": "Southern-Style Cornmeal Catfish",
+            "food": "dinner",
+            "restaurant": "Last night Restaurant & kafe",
+            "price": 20.15
+        },
+        {
+            "id": 20,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/11/chicken-and-dumplings-recipe.jpg",
+            "name": "Chicken and Dumplings",
+            "food": "dinner",
+            "restaurant": "Last night Restaurant & kafe",
+            "price": 18.9
+        },
+        {
+            "id": 21,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/01/vegetarian-green-bean-casserole.jpg",
+            "name": "Classic Green Bean Caserole",
+            "food": "dinner",
+            "restaurant": "Last night Restaurant & kafe",
+            "price": 21.6
+        },
+        {
+            "id": 22,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/03/sweetbreads.jpg",
+            "name": "Breaised Sweetbreads Eugenie",
+            "food": "dinner",
+            "restaurant": "Last night Restaurant & kafe",
+            "price": 19.9
+        },
+        {
+            "id": 23,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/tempura-shrimp-roll.jpg",
+            "name": "Shrimp Tempura Roll Sushi",
+            "food": "sushi",
+            "restaurant": "Outdoors Paradise",
+            "price": 23.78
+        },
+        {
+            "id": 24,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/eel-roll.jpg",
+            "name": "Eel and Avocado Roll Sushi",
+            "food": "sushi",
+            "restaurant": "Outdoors Paradise",
+            "price": 24.12
+        },
+        {
+            "id": 25,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/philadelphia-roll.jpg",
+            "name": "Philadelphia Roll Sushi",
+            "food": "sushi",
+            "restaurant": "Outdoors Paradise",
+            "price": 25.94
+        },
+        {
+            "id": 26,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/spicy-tuna-roll.jpg",
+            "name": "Spicy Tuna Roll Sushi",
+            "food": "sushi",
+            "restaurant": "Outdoors Paradise",
+            "price": 23.78
+        },
+        {
+            "id": 27,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/10/rainbow-roll.jpg",
+            "name": "Rainbow Roll Sushi",
+            "food": "sushi",
+            "restaurant": "Outdoors Paradise",
+            "price": 21.46
+        },
+        {
+            "id": 28,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/988728384/apple-cranberry-oatmeal.jpg",
+            "name": "Nutty Oatmeal",
+            "food": "breakfast",
+            "restaurant": "Glamour Kafe",
+            "price": 8.9
+        },
+        {
+            "id": 29,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/12/protein-powder-pancakes.jpg",
+            "name": "Protein Pancakes",
+            "food": "breakfast",
+            "restaurant": "Glamour Kafe",
+            "price": 11.5
+        },
+        {
+            "id": 30,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/742292227/berry-yogurt-toast.jpg",
+            "name": "Ricotta Toast and Berries",
+            "food": "breakfast",
+            "restaurant": "Glamour Kafe",
+            "price": 12.1
+        },
+        {
+            "id": 31,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/649591638/frozen-berry-banana-oatmeal.jpg",
+            "name": "Instant Oats with Protein Powder",
+            "food": "breakfast",
+            "restaurant": "Glamour Kafe",
+            "price": 15.65
+        },
+        {
+            "id": 32,
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2017/12/spinach-mushroom-omelet-flickr.jpg",
+            "name": "Spinach and Mushroom Omelet",
+            "food": "breakfast",
+            "restaurant": "Glamour Kafe",
+            "price": 13.65
+        }
+    ],
+    "restaurants": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant1_dhezvv.png",
+            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoPardes_cctmmi.png",
+            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829463/media%20sprint2/IconPardes_wzlj50.png",
+            "name": "Pardes Restaurant",
+            "food": "salad",
+            "schedule": "09:30 - 23:00",
+            "stars": 4,
+            "before": "4$"
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant2_iuftqx.png",
+            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829463/media%20sprint2/IconGlamour_wiccvc.png",
+            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoGlamour_clafv2.png",
+            "name": "Glamour Kafe",
+            "food": "breakfast",
+            "schedule": "09:00 - 21:00",
+            "stars": 5,
+            "before": "13$"
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant3_ukx0zd.png",
+            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoAromat_xj09ag.png",
+            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829464/media%20sprint2/IconAromat_sax1kn.png",
+            "name": "Aromat Bakery",
+            "food": "pizzas",
+            "schedule": "09:00 - 22:00",
+            "stars": 2,
+            "before": "3$"
+        },
+        {
+            "id": 4,
+            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant4_etrsk2.png",
+            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoLast_k7bnhk.png",
+            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829466/media%20sprint2/IconLast_hac4lw.png",
+            "name": "Last night Restaurant & kafe",
+            "food": "dinner",
+            "schedule": "10:00 - 22:00",
+            "stars": 3,
+            "before": "5$"
+        },
+        {
+            "id": 5,
+            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654582209/media%20sprint2/restaurant5_omgqpw.png",
+            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoDeutch_rxr9ay.png",
+            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829464/media%20sprint2/IconDeutch_leppuy.png",
+            "name": "The Deutch Grill",
+            "food": "burgers",
+            "schedule": "09:30 - 23:30",
+            "stars": 4,
+            "before": "10$"
+        },
+        {
+            "id": 6,
+            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654582210/media%20sprint2/restaurant6_spvngo.png",
+            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoOutdoors_pvh8pd.png",
+            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829465/media%20sprint2/IconOutdoors_ar07g7.png",
+            "name": "Outdoors Paradise",
+            "food": "sushi",
+            "schedule": "10:30 - 22:30",
+            "stars": 4,
+            "before": "8$"
+        }
+    ],
+    "users": [
+        {
+            "id": 1
+        }
+    ]
+}
