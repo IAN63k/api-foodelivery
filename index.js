@@ -90,10 +90,17 @@ app.get('/restaurants/:id', (req, res) => {
     res.json(restaurant);
 });
 
-app.get('/restaurants/:food', (req, res) => {
+app.get('/restaurants', (req, res) => {
     const data = readData();
-    const restaurant = data.restaurants.find((restaurant) => restaurant.food === req.params.food);
-    res.json(restaurant);
+    const { food } = req.query;
+
+    if (food) {
+        // Filtrar restaurantes por tipo de comida
+        const filteredRestaurants = data.restaurants.filter((restaurant) => restaurant.food === food);
+        res.json(filteredRestaurants);
+    } else {
+        res.json(data.restaurants);
+    }
 });
 
 
