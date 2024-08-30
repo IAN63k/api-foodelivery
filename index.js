@@ -1,44 +1,40 @@
 import express from 'express';
 import fs from 'fs';
 import bodyParser from 'body-parser';
-
+import cors from 'cors';
 
 const app = express();
+
 // middleware para parsear el body de las peticiones
 app.use(bodyParser.json());
+// middleware para habilitar CORS
+app.use(cors());
 
 const readData = () => {
     try {
         const data = fs.readFileSync('./db.json');
         return JSON.parse(data);
-    }
-    catch (err) {
+    } catch (err) {
         console.log(err);
         return [];
     }
 }
 
-
 const writeData = (data) => {
     try {
         fs.writeFileSync('./db.json', JSON.stringify(data));
-    }
-    catch (err) {
+    } catch (err) {
         console.log(err);
     }
-
 }
 
-
 readData();
-
 
 app.get('/', (req, res) => {
     res.send('This is my Api REST for app foodelivery! 🚀');
 });
 
 // endpoints para platos
-
 app.get('/platos', (req, res) => {
     const data = readData();
     res.send(data.platos);
@@ -82,9 +78,7 @@ app.delete('/platos/:id', (req, res) => {
     res.json({ message: 'Plato eliminado 😢' });
 });
 
-
 // endpoints para restaurants
-
 app.get('/restaurants', (req, res) => {
     const data = readData();
     res.send(data.restaurants);
@@ -95,7 +89,6 @@ app.get('/restaurants/:id', (req, res) => {
     const restaurant = data.restaurants.find((restaurant) => restaurant.id === parseInt(req.params.id));
     res.json(restaurant);
 });
-
 
 app.post('/restaurants', (req, res) => {
     const data = readData();
@@ -130,20 +123,16 @@ app.delete('/restaurants/:id', (req, res) => {
 });
 
 // endpoints para users
-
-
 app.get('/users', (req, res) => {
     const data = readData();
     res.send(data.users);
 });
-
 
 app.get('/users/:id', (req, res) => {
     const data = readData();
     const user = data.users.find((user) => user.id === parseInt(req.params.id));
     res.json(user);
 });
-
 
 app.post('/users', (req, res) => {
     const data = readData();
@@ -157,7 +146,6 @@ app.post('/users', (req, res) => {
     res.json(newUser);
 });
 
-
 app.put('/users/:id', (req, res) => {
     const data = readData();
     const user = req.body;
@@ -170,7 +158,6 @@ app.put('/users/:id', (req, res) => {
     res.json({ message: 'Usuario actualizado 😉' });
 });
 
-
 app.delete('/users/:id', (req, res) => {
     const data = readData();
     const userIndex = data.users.findIndex((user) => user.id === parseInt(req.params.id));
@@ -179,8 +166,6 @@ app.delete('/users/:id', (req, res) => {
     res.json({ message: 'Usuario eliminado 😢' });
 });
 
-
-app.listen(3000, () => {
+app.listen(3004, () => {
     console.log('Server is running on port 3004');
 });
-
