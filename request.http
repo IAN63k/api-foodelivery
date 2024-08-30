@@ -1,0 +1,49 @@
+GET http://localhost:3000/platos HTTP/1.1
+
+###
+
+GET http://localhost:3000/platos/1 HTTP/1.1
+
+###
+
+POST http://localhost:3000/platos HTTP/1.1
+Content-Type: application/json
+
+{
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjZ1NBegVKMVNUwZIDdwGVl_r24oPc2kqkw&s",
+    "name": "Arros con pollo",
+    "food": "Arroz",
+    "restaurant": "Arroz paisa",
+    "price": 15.99
+}
+
+###
+
+PUT http://localhost:3000/platos/33 HTTP/1.1
+Content-Type: application/json
+
+{
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjZ1NBegVKMVNUwZIDdwGVl_r24oPc2kqkw&s",
+    "name": "Arros con pollo 🤘",
+    "food": "Arroz",
+    "restaurant": "Arroz Paisa",
+    "price": 14.99
+}
+
+###
+
+DELETE http://localhost:3000/platos/33 HTTP/1.1
+
+
+### 
+
+POST http://localhost:3000/users HTTP/1.1
+Content-Type: application/jsuserson
+
+{
+    "name": "Juan pepito",
+    "email": "juanpepito@gmail.com",
+    "password": "123456",
+    "role": "user"
+}
+

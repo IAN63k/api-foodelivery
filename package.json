@@ -1,0 +1,31 @@
+{
+  "name": "api-rest-expres-nodejs",
+  "version": "1.0.0",
+  "description": "api to app-restaourant",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAN63k/api-foodelivery.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "ian63k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAN63k/api-foodelivery/issues"
+  },
+  "homepage": "https://github.com/IAN63k/api-foodelivery#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
