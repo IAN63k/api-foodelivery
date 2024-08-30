@@ -6,7 +6,7 @@ GET http://localhost:3004/platos/1 HTTP/1.1
 
 ###
 
-GET https://api-foodelivery.onrender.com/restaurants/1 HTTP/1.1
+GET https://api-foodelivery.onrender.com/users/1724997825647 HTTP/1.1
 
 
 ##
@@ -37,7 +37,7 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3000/platos/33 HTTP/1.1
+DELETE https://api-foodelivery.onrender.com/users/1724997312333 HTTP/1.1
 
 
 ### 

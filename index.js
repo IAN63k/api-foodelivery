@@ -90,6 +90,13 @@ app.get('/restaurants/:id', (req, res) => {
     res.json(restaurant);
 });
 
+app.get('/restaurants/:food', (req, res) => {
+    const data = readData();
+    const restaurant = data.restaurants.find((restaurant) => restaurant.food === req.params.food);
+    res.json(restaurant);
+});
+
+
 app.post('/restaurants', (req, res) => {
     const data = readData();
     const restaurant = req.body;
