@@ -6,7 +6,8 @@
             "name": "Meat pizza",
             "food": "pizza",
             "restaurant": "Aromat Bakery",
-            "price": 29
+            "price": 29,
+            "description": "A delicious pizza topped with a variety of meats, perfect for satisfying your cravings."
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "name": "Combined pizza",
             "food": "pizza",
             "restaurant": "Aromat Bakery",
-            "price": 31.5
+            "price": 31.5,
+            "description": "A flavorful pizza combining multiple toppings for a rich and satisfying taste."
         },
         {
             "id": 3,
@@ -22,7 +24,9 @@
             "name": "Pizza with meat and mushrooms",
             "food": "pizza",
             "restaurant": "Aromat Bakery",
-            "price": 26.9
+            "price": 26.9,
+            "description": "A savory pizza featuring tender meat and earthy mushrooms for a perfect blend of flavors."
+
         },
         {
             "id": 4,
@@ -30,7 +34,8 @@
             "name": "Hawaiian pizza",
             "food": "pizza",
             "restaurant": "Aromat Bakery",
-            "price": 35
+            "price": 35,
+            "description": "A tropical twist on pizza with sweet pineapple and savory ham, creating a unique flavor experience."
         },
         {
             "id": 5,
@@ -38,7 +43,8 @@
             "name": "Sausage pizza",
             "food": "pizza",
             "restaurant": "Aromat Bakery",
-            "price": 30
+            "price": 30,
+            "description": "A hearty pizza topped with spicy sausage, offering a bold and satisfying taste."
         },
         {
             "id": 6,
@@ -46,55 +52,62 @@
             "name": "Vegetarian pizza",
             "food": "pizza",
             "restaurant": "Aromat Bakery",
-            "price": 32
+            "price": 32,
+            "description": "A fresh and healthy pizza loaded with a variety of vegetables, perfect for veggie lovers."
         },
         {
             "id": 7,
-            "image": "https://s3-alpha-sig.figma.com/img/f375/7f2d/e061b7a56e124c7e0761545d650cce2b?Expires=1655683200&Signature=eIinJBu8ZYrfxju2BxX5r~8KJpPFp8x8M6krwH6fd7eB-J4TvwykoENg-ZaN-3VCBAv~1-Wqh7d5DRZZMs49KKtaimAB-VxQfuyp4xPMmjQiBh3gCNQU2ROjgLMNqZ61yl9HoBbW1z78XN0-AtMiv8Y0sHWIjQCPgaKD~sIT013fbfZDqf4qW~JnesuusuyNFuuFc6oopowdTK1QsnrTDhVI3tXQO8CpiCyejxH~i4UXzdLQ1VUt1KcgsitccyOv356hlsIa~kt0UbdxLNVQUWZoBlLPtMkcSRkkGTomuTwQ0Bh1klj1HkHURCkLHFpb5bmIGcyXka8v8oaXDGwyrA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhpj0pbVylSgGzPR3B-fALVwESd0IAovrSA&s",
             "name": "Bolognese salad",
             "food": "salad",
             "restaurant": "Pardes Restaurant",
-            "price": 14.45
+            "price": 14.45,
+            "description": "A refreshing salad featuring classic Bolognese flavors, perfect for a light and healthy meal."
         },
         {
             "id": 8,
-            "image": "https://s3-alpha-sig.figma.com/img/1201/0c03/81befe707c027781720f9764f396d780?Expires=1655683200&Signature=P0IbRYYl9i7-PViXufwzi0Hirskm5FE6IUlicgQGqaWIHMIa4el06FrcZJOC~FHURbz1t61TRHqNw2GoGeXvPaDRLlErOacN0ZYkfaNrkD9sf7E9cnE3vjE-LPAow0nJwBs-jkBPaMjSw~j~OrbuVAOh6lgMd4VkRRjw6lgV~hSA5-oLC8MHyxSmIh6WEf99mRrQokXJ8sDZ-TWAJRzp-I8S2GwBlmOTS6DQoandBIkauFrgdxUba2AQhqXtsu2Q6CI35mkxm-EkfCXWB-1zpGw16IkZFVpTYpDOeWG-H50azQt9ZWVajTgN2pPqA~R8BQ4eu~Y-6DFl2chFpYUWmw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jM2G3l4oYGG7Vni80UBQ0k06gSI6kxhm1w&s",
             "name": "Salad with shrimp",
             "food": "salad",
             "restaurant": "Pardes Restaurant",
-            "price": 19.05
+            "price": 19.05,
+            "description": "A vibrant salad featuring succulent shrimp, ideal for seafood lovers."
         },
         {
             "id": 9,
-            "image": "https://s3-alpha-sig.figma.com/img/255f/ec55/df09594f35ff96fcae46c638467e42c8?Expires=1655683200&Signature=HpEds2q1HoXNvZbkH9VbZIZnhYPDWi5qUY3Fg~I128HyzYTgchr1Q4z9RVUv-LIvvC~FVp6OdJYZAjhxlIfNf5XT6Xet1CFRqZ~5buMDQGU0R-vGMjx-K3kJJ960K-LSI0z5cB7taMEiyTeA9RmVp3Y13-1xVIyJgn3Cw3X7L9Jl7tEsQOMwYP6x0QnGUBPaSONYEiWsTezZPZ~MzHFo3IoNICQzm9bUvNyPTYs7PYsmZfUNdHQtuGalXuIwbJeoTttO7qjs8Ylytf4TlT2d4mSWu-4u1ptpeOUhy27~wKIQHYlptxYnUtq7SPVvTgEWzxBQ6w22t8Wjr5UwGf3wvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvv_mjod55DJoHy8VGxnNzhJRJ56oAXgSvFA&s",
             "name": "Caesar salad without sauce",
             "food": "salad",
             "restaurant": "Pardes Restaurant",
-            "price": 17.45
+            "price": 17.45,
+            "description": "A classic Caesar salad without sauce, allowing the fresh ingredients to shine."
         },
         {
             "id": 10,
-            "image": "https://s3-alpha-sig.figma.com/img/4317/6618/bd702e5247cf05cebdbccd9f6def186d?Expires=1655683200&Signature=HEViZRinwSkNd2lzeWiR6VIhTf5uMWzOIDvXulcccurRERQ6fX4wtIHoGJtQj4JWnzPsgfmU~ImTnhv2V2PwwmFZNZe~JxWfqjk3wDQ8jgTSf2b4ZktPqu3xzgdqf0x-Jaymc4-pidXgsDm0pD14sUDZdxhOg0qWjQvg35Y1~fb79yQtRgEG8iO84eHHMiWLVouNrRLmktV5fedoTi~IApiaGTTJKzrqNAIXFi9LKirENIUq-ORS8Wpy3iLPYKqbltZG834Kq0M6dkdvqRGBXTmMDdmB3JrGBsssoZUmCZ7XdVbcJoJH5Anrw3VjduwMIOxIH4t4IhzfsyK6FXYA2A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "image": "https://www.shutterstock.com/image-photo/vegan-funchoza-salad-asian-fresh-260nw-2457502081.jpg",
             "name": "Fresh with funcheza",
             "food": "salad",
             "restaurant": "Pardes Restaurant",
-            "price": 14.45
+            "price": 14.45,
+            "description": "A vibrant Greek salad packed with fresh tomatoes, olives, and feta cheese."
         },
         {
             "id": 11,
-            "image": "https://s3-alpha-sig.figma.com/img/fd2c/5fbb/54d8e7858dee9df91a73796f335fb9e2?Expires=1655683200&Signature=YG4Yzpvr1u5S3yMrdEtc60fuSIxgIc--~viiyKxZYN5PwZgbcS~heXKVYQDhuo5geaoFqxzxkgXiLoQiBTb9BslF9eL-Bvqkhws0I3lurvBTjbAitzNy-x9bpMbSrGP3m6x0lNQMvO1bvIWFb~vZS3Pnczjc4OK5tThxwYYBCOQoJLhrgMU~GHPIBZxTfHSfWuGkg5gdPp3TCYfkeytuzkom4wplue3Z9D2us-inKPY9JwO8ekl-O39UeqJBk5em22dhsKaopCQ7cug0PJdd9X8IONiQlD58Jgp~4urAhhJ~kGOBvLpykiF0ZeMHD1VA0inPa4oqyonuWcwydKciBw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2H89OR52gdyMtJYUgNRnn0w5iySF1TMKSg&s",
             "name": "Fruit salad",
             "food": "salad",
             "restaurant": "Pardes Restaurant",
-            "price": 14.45
+            "price": 14.45,
+            "description": "A simple yet flavorful vegetable salad, perfect for a light and refreshing meal."
         },
         {
             "id": 12,
-            "image": "https://s3-alpha-sig.figma.com/img/7ce2/e44a/8bfada13f96f56f059bd5857285364c6?Expires=1655683200&Signature=a39scla8qqN2AZmSMbjCh25L3XrFbv4zlKhroduR~kWE7X~1R5IBnOaA-qCPxa7x12FqgMYwe0MyPeXy7Xf3kFmR603JndhSPc8hACTI4PLm4hUz0EfF2l-58-~X0n~Lkwgo4I9rUd~Dmm3qECgik3MouOIu5vHW0m9RQC2dPfy0Btg~yafoUB0pLL9-wjGUVs0XKKNVBE21wFXBBi9XZF9iTpcZ3dkV7O5pvjD7LvYtlJiqIC9M3qLUxlt9d1ziEAfMx3fQO25jHf1wEc8uyqlm5GaZQ2cziFSNnOOITX3AsQHt~CN~-NR~VyuQxL4p~Cbm~E6ELibRCgJi0MOKyA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6BuOWHh7oM2cHY2WjhCXSoHTrqOn7q1HEQ&s",
             "name": "Vegetable salad",
             "food": "salad",
             "restaurant": "Pardes Restaurant",
-            "price": 14.45
+            "price": 14.45,
+            "description": "A creamy and rich pasta dish, perfect for a hearty meal."
         },
         {
             "id": 13,
@@ -102,7 +115,8 @@
             "name": "Roast Beef Burger",
             "food": "burger",
             "restaurant": "The Deutch Grill",
-            "price": 10.45
+            "price": 10.45,
+            "description": "Tender and flavorful chicken breast, grilled to perfection."
         },
         {
             "id": 14,
@@ -110,7 +124,8 @@
             "name": "Elk Burger",
             "food": "burger",
             "restaurant": "The Deutch Grill",
-            "price": 13.65
+            "price": 13.65,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 15,
@@ -118,7 +133,8 @@
             "name": "Portobello Mushroom Burger",
             "food": "burger",
             "restaurant": "The Deutch Grill",
-            "price": 10.75
+            "price": 10.75,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 16,
@@ -126,7 +142,8 @@
             "name": "Turkey Burger",
             "food": "burger",
             "restaurant": "The Deutch Grill",
-            "price": 10.15
+            "price": 10.15,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 17,
@@ -134,7 +151,8 @@
             "name": "Veggie Burger",
             "food": "burger",
             "restaurant": "The Deutch Grill",
-            "price": 14
+            "price": 14,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 18,
@@ -142,7 +160,8 @@
             "name": "Classic Meatloaf",
             "food": "dinner",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 23.5
+            "price": 23.5,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 19,
@@ -150,7 +169,8 @@
             "name": "Southern-Style Cornmeal Catfish",
             "food": "dinner",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 20.15
+            "price": 20.15,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 20,
@@ -158,7 +178,8 @@
             "name": "Chicken and Dumplings",
             "food": "dinner",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 18.9
+            "price": 18.9,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 21,
@@ -166,7 +187,8 @@
             "name": "Classic Green Bean Caserole",
             "food": "dinner",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 21.6
+            "price": 21.6,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 22,
@@ -174,7 +196,8 @@
             "name": "Breaised Sweetbreads Eugenie",
             "food": "dinner",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 19.9
+            "price": 19.9,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 23,
@@ -182,7 +205,8 @@
             "name": "Shrimp Tempura Roll Sushi",
             "food": "sushi",
             "restaurant": "Outdoors Paradise",
-            "price": 23.78
+            "price": 23.78,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 24,
@@ -190,7 +214,8 @@
             "name": "Eel and Avocado Roll Sushi",
             "food": "sushi",
             "restaurant": "Outdoors Paradise",
-            "price": 24.12
+            "price": 24.12,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 25,
@@ -198,7 +223,8 @@
             "name": "Philadelphia Roll Sushi",
             "food": "sushi",
             "restaurant": "Outdoors Paradise",
-            "price": 25.94
+            "price": 25.94,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 26,
@@ -206,7 +232,8 @@
             "name": "Spicy Tuna Roll Sushi",
             "food": "sushi",
             "restaurant": "Outdoors Paradise",
-            "price": 23.78
+            "price": 23.78,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 27,
@@ -214,7 +241,8 @@
             "name": "Rainbow Roll Sushi",
             "food": "sushi",
             "restaurant": "Outdoors Paradise",
-            "price": 21.46
+            "price": 21.46,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 28,
@@ -222,7 +250,8 @@
             "name": "Nutty Oatmeal",
             "food": "breakfast",
             "restaurant": "Glamour Kafe",
-            "price": 8.9
+            "price": 8.9,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 29,
@@ -230,7 +259,8 @@
             "name": "Protein Pancakes",
             "food": "breakfast",
             "restaurant": "Glamour Kafe",
-            "price": 11.5
+            "price": 11.5,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 30,
@@ -238,7 +268,8 @@
             "name": "Ricotta Toast and Berries",
             "food": "breakfast",
             "restaurant": "Glamour Kafe",
-            "price": 12.1
+            "price": 12.1,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 31,
@@ -246,7 +277,8 @@
             "name": "Instant Oats with Protein Powder",
             "food": "breakfast",
             "restaurant": "Glamour Kafe",
-            "price": 15.65
+            "price": 15.65,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 32,
@@ -254,7 +286,8 @@
             "name": "Spinach and Mushroom Omelet",
             "food": "breakfast",
             "restaurant": "Glamour Kafe",
-            "price": 13.65
+            "price": 13.65,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 33,
@@ -262,7 +295,8 @@
             "name": "omelet",
             "food": "Eggs",
             "restaurant": "Glamour Kafe",
-            "price": 13.65
+            "price": 13.65,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 34,
@@ -270,7 +304,8 @@
             "name": "French Toast",
             "food": "Bread",
             "restaurant": "Pardes Restaurant",
-            "price": 10.75
+            "price": 10.75,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 35,
@@ -278,7 +313,8 @@
             "name": "Grilled Cheese",
             "food": "Cheese",
             "restaurant": "Glamour Kafe",
-            "price": 8.50
+            "price": 8.50,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 36,
@@ -286,7 +322,8 @@
             "name": "Pancakes",
             "food": "Bread",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 12.00
+            "price": 12.00,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 37,
@@ -294,7 +331,8 @@
             "name": "Eggs Benedict",
             "food": "Eggs",
             "restaurant": "The Deutch Grill",
-            "price": 14.30
+            "price": 14.30,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 38,
@@ -302,7 +340,8 @@
             "name": "Avocado Toast",
             "food": "Avocado",
             "restaurant": "Outdoors Paradise",
-            "price": 11.20
+            "price": 11.20,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 39,
@@ -310,7 +349,8 @@
             "name": "Caesar Salad",
             "food": "Salad",
             "restaurant": "Pardes Restaurant",
-            "price": 9.95
+            "price": 9.95,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id por aqui": 40,
@@ -318,7 +358,8 @@
             "name": "Scrambled Eggs",
             "food": "Eggs",
             "restaurant": "Glamour Kafe",
-            "price": 13.00
+            "price": 13.00,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 41,
@@ -326,7 +367,8 @@
             "name": "Chicken Sandwich",
             "food": "Chicken",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 15.25
+            "price": 15.25,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 42,
@@ -334,7 +376,8 @@
             "name": "Sausage Platter",
             "food": "Sausage",
             "restaurant": "The Deutch Grill",
-            "price": 16.40
+            "price": 16.40,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 43,
@@ -342,7 +385,8 @@
             "name": "Grilled Veggies",
             "food": "Vegetables",
             "restaurant": "Outdoors Paradise",
-            "price": 13.80
+            "price": 13.80,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 44,
@@ -350,7 +394,8 @@
             "name": "Steak & Eggs",
             "food": "Beef",
             "restaurant": "Pardes Restaurant",
-            "price": 18.50
+            "price": 18.50,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 45,
@@ -358,7 +403,8 @@
             "name": "Ham & Cheese Omelet",
             "food": "Ham",
             "restaurant": "Glamour Kafe",
-            "price": 14.25
+            "price": 14.25,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 46,
@@ -366,7 +412,8 @@
             "name": "Fish Tacos",
             "food": "Fish",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 13.95
+            "price": 13.95,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 47,
@@ -374,7 +421,8 @@
             "name": "Bratwurst",
             "food": "Sausage",
             "restaurant": "The Deutch Grill",
-            "price": 12.75
+            "price": 12.75,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 48,
@@ -382,7 +430,8 @@
             "name": "Vegan Burger",
             "food": "Vegetarian",
             "restaurant": "Outdoors Paradise",
-            "price": 14.50
+            "price": 14.50,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 49,
@@ -390,7 +439,8 @@
             "name": "Avocado Salad",
             "food": "Avocado",
             "restaurant": "Pardes Restaurant",
-            "price": 10.30
+            "price": 10.30,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 50,
@@ -398,7 +448,8 @@
             "name": "Cheeseburger",
             "food": "Beef",
             "restaurant": "Glamour Kafe",
-            "price": 13.00
+            "price": 13.00,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 51,
@@ -406,7 +457,8 @@
             "name": "Bacon & Eggs",
             "food": "Bacon",
             "restaurant": "Last night Restaurant & kafe",
-            "price": 12.95
+            "price": 12.95,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 52,
@@ -414,7 +466,8 @@
             "name": "German Potato Salad",
             "food": "Potato",
             "restaurant": "The Deutch Grill",
-            "price": 9.80
+            "price": 9.80,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         },
         {
             "id": 53,
@@ -422,7 +475,8 @@
             "name": "Fruit Bowl",
             "food": "Fruits",
             "restaurant": "Outdoors Paradise",
-            "price": 7.95
+            "price": 7.95,
+            "description": "A delicious meal that will delight your palate, do not hesitate to order this dish. You're going to love it 😎✨"
         }
     ],
     "restaurants": [
