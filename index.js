@@ -7,7 +7,8 @@ const app = express();
 
 // middleware para parsear el body de las peticiones
 app.use(bodyParser.json());
-// middleware para habilitar CORS
+// middleware para habilitar CORS: 
+// los cors son un mecanismo de seguridad que impide que un script en una página web acceda a recursos de un servidor que no pertenezca al mismo dominio
 app.use(cors());
 
 const readData = () => {

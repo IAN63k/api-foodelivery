@@ -255,6 +255,14 @@
             "food": "breakfast",
             "restaurant": "Glamour Kafe",
             "price": 13.65
+        },
+        {
+            "id": 33,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqUQGX_TYstib0IfWDc0kbEXxrfhCI4qwJQ&s",
+            "name": "omelet",
+            "food": "Eggs",
+            "restaurant": "Glamour Kafe",
+            "price": 13.65
         }
     ],
     "restaurants": [
@@ -280,17 +288,8 @@
             "stars": 5,
             "before": "13$"
         },
-        {
-            "id": 3,
-            "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant3_ukx0zd.png",
-            "logo": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654757090/media%20sprint2/LogoAromat_xj09ag.png",
-            "icon": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654829464/media%20sprint2/IconAromat_sax1kn.png",
-            "name": "Aromat Bakery",
-            "food": "pizzas",
-            "schedule": "09:00 - 22:00",
-            "stars": 2,
-            "before": "3$"
-        },
+        
+        
         {
             "id": 4,
             "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1654580806/media%20sprint2/restaurant4_etrsk2.png",
